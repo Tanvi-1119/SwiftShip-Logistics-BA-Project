@@ -14,7 +14,7 @@ SwiftShip Logistics is experiencing three core operational problems:
 
 ## Project Deliverables
 - [x] Business Requirements Document (BRD)
-- [ ] Use Cases
+- [x] Use Cases
 - [ ] User Stories
 - [ ] Process Diagram (Current vs Improved)
 
