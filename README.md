@@ -16,11 +16,11 @@ SwiftShip Logistics is experiencing three core operational problems:
 - [x] Business Requirements Document (BRD)
 - [x] Use Cases
 - [x] User Stories
-- [ ] Process Diagram (Current vs Improved)
+- [x] Process Diagram (Current vs Improved)
 
 ## Tools Used
 - Microsoft Word — Documentation
-- draw.io — Process diagrams (coming soon)
+- draw.io — Process diagrams 
 
 ## Industry
 Logistics / Supply Chain
