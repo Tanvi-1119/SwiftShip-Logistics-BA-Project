@@ -20,10 +20,10 @@ SwiftShip Logistics is experiencing three core operational problems:
 
 ## Tools Used
 - Microsoft Word — Documentation
-- draw.io — Process diagrams 
+- Microsoft Visio — Process diagrams
 
 ## Industry
 Logistics / Supply Chain
 
 ## Project Status
-In Progress
+Completed
